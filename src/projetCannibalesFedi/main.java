@@ -1,4 +1,4 @@
-package projetCannibalesNour;
+package projetCannibalesFedi;
 
 import java.util.ArrayList;
 
